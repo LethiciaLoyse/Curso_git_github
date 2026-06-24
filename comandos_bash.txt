@@ -5,3 +5,4 @@ cat- exibe o conteúdo do arquivo
 rm - remove o arquivo ou diretório 
 rm -rf -> remove de forma recursiva e forçada todos os diretórios 
 dane-se
+Estudando novamente o curso de git! 
