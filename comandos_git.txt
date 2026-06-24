@@ -6,11 +6,11 @@ git log -> mostra todo o histórico de commit
 
 ## fluxo de trabalho
 1- criar o diretório
-2 - inicia o git dentro do diretório criando (git init . )
+2 - inicia o git dentro do diretório criando (git init . ) obs: esse ponto é o diretório atual!
 3- edita ou cria arquivos
 4- git status 
-5- git add <nome arquivo>
-6- git status
-7- git commit -m "mensagem"
+5- git add <nome arquivo> (pega tds os arquivos editados para o commit, ele joga para lá)
+6- git status 
+7- git commit -m "mensagem" (confirmação do commit)
 8- git status
-9- volta para o passo 3 
+9- volta para o passo 3
