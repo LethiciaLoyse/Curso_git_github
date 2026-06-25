@@ -1,4 +1,7 @@
 esse arquivos contém comandos secundários de git. 
-comandos mais genéricos
-comandos mais estranhos
 
+# Comandos mais genéricos
+- comandos mais estranhos
+
+#Mais comandos!!
+- lalalala
