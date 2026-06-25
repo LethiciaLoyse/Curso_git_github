@@ -1,0 +1,3 @@
+Este arquivo é um teste para mais de uma branch.
+
+mais uma linha neste arquivo.
