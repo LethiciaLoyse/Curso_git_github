@@ -6,9 +6,11 @@ Além disso, aprenderei a trabalhar com GitFlow ao final do curso e Visual Studi
 
 [Curso git 2025](https://youtube.com/@teomewhy)
 
+Além do nosso youtube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai olhar. 
+
+[teomewhy.org] (https://teomewhy.org/schedule)
 
 \## Fluxo de trabalho git local
-
 
 
 1. git chechout -b <nova branch>
@@ -22,10 +24,7 @@ Além disso, aprenderei a trabalhar com GitFlow ao final do curso e Visual Studi
 9. git checkout main
 10. git branch -D <nova\_branch>
 
-
-
 \## Fluxo de trabalho GitHub Local(Projetos open-source)
-
 
 
 1. Fork do projeto para seu próprio GitHub
@@ -41,8 +40,6 @@ Além disso, aprenderei a trabalhar com GitFlow ao final do curso e Visual Studi
 11. excluir <nova\_branch> origin
 12. git checkout main
 13. git branch -D <nova\_branch>
-
-
 
 É isso!
 
