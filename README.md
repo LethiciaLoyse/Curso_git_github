@@ -1,4 +1,4 @@
-\# Curso TMW Git \& GitHub
+# Curso TMW Git \& GitHub
 
 Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
@@ -10,7 +10,7 @@ Além do nosso youtube, se ligue no nosso site e agenda para ficar por dentro de
 
 [teomewhy.org] (https://teomewhy.org/schedule)
 
-\## Fluxo de trabalho git local
+## Fluxo de trabalho git local
 
 
 1. git chechout -b <nova branch>
@@ -24,7 +24,7 @@ Além do nosso youtube, se ligue no nosso site e agenda para ficar por dentro de
 9. git checkout main
 10. git branch -D <nova\_branch>
 
-\## Fluxo de trabalho GitHub Local(Projetos open-source)
+## Fluxo de trabalho GitHub Local(Projetos open-source)
 
 
 1. Fork do projeto para seu próprio GitHub
