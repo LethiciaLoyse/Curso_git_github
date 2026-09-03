@@ -1,49 +1,18 @@
-# Curso TMW Git \& GitHub
+# 👩🏽‍💻 Git e GitHub
 
-Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
+Este repositório foi o meu diário de bordo durante o curso de versionamento de código com o [Teo me why ](https://github.com/TeoCalvo). O grande objetivo foi documentar a jornada de aprendizado que transformou o receio de versionar código em algo simples, prático e divertido (com direito a muitos memes e referências duvidosas ao longo do caminho).
 
-Além disso, aprenderei a trabalhar com GitFlow ao final do curso e Visual Studio Code.
+## 🚀 O que aprendi e testei aqui
 
-[Curso git 2025](https://youtube.com/@teomewhy)
+Neste espaço, guardo os testes práticos e anotações sobre o fluxo de trabalho com Git. Os principais tópicos que pratiquei incluem:
 
-Além do nosso youtube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai olhar. 
+* **Comandos Essenciais:** `git init`, `git add`, `git commit`, `git push`, `git pull`,`git status`,` git checkout` e `git merge`.
+* **Gerenciamento de Repositórios:** Criação e conexão entre repositórios locais e remotos.
+* **Fluxo de Trabalho:** Entendimento da lógica de versionamento, histórico de alterações e boas práticas para salvar o progresso.
+  
+## 🛠️ Ferramentas Utilizadas
 
-[teomewhy.org] (https://teomewhy.org/schedule)
-
-## Fluxo de trabalho git local
-
-
-1. git chechout -b <nova branch>
-2. Atualiza  ou cria arquivos 
-3. git add "arquivos"
-4. git status
-5. git commit -m "nova mensagem"
-6. git push origin <nova\_branch>
-7. abrir pull request no GitHub para main
-8. excluir <nova\_branch> origin
-9. git checkout main
-10. git branch -D <nova\_branch>
-
-## Fluxo de trabalho GitHub Local(Projetos open-source)
-
-
-1. Fork do projeto para seu próprio GitHub
-2. git clone <endereço do projeto fork>
-3. git checkout -b <nova\_branch>
-4. Alterações de arquivos
-5. git status
-6. git add "arquivos"
-7. git status
-8. git commit -m "nova mensagem"
-9. git push origin <nova\_branch>
-10. abrir pull request no GitHub para main
-11. excluir <nova\_branch> origin
-12. git checkout main
-13. git branch -D <nova\_branch>
-
-É isso!
-
-\-----------------
-
-Adicionando personagens:
-
+* **Git:** (Versionamento local)
+* **GitHub:** (Hospedagem de código e portfólio remoto)
+* **Terminal / Linha de Comando:** (Bash)
+* **Editor de código:** Vs code 
